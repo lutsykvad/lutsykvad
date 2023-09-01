@@ -10,7 +10,7 @@
 
 <p align="center">📫 Reach me at <strong>lutsykvad@gmail.com</strong></p>
 
-<p align="center">📄 Know more about my experiences <a href="https:vadymlutsyk.com">here!</a></p>
+<p align="center">📄 Know more about my experiences <a href="https://vadymlutsyk.com">here!</a></p>
 
 <p align="center">☕ Passionate about continuous improvement in QA</p>
 
