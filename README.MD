@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vadym</h1>
-<p align="center">
-<img style="border-radius: 50%; width: 200px; height: 200px;" src="https://vadymlutsyk.com/static/media/self.e3e96ca2a2674b01e78a.png" alt="Vadym's Profile Picture">
 
-</p>
 <br>
 <h3 align="center">🚀 QA Lead & Product Owner with 7 years of experience</h3>
 
