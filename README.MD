@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vadym</h1>
 
 <br>
-<h3 align="center">🚀 QA Lead & Product Owner with 7 years of experience</h3>
+<h3 align="center">🚀 QA Lead & SDET with 7 years of experience</h3>
 
 
 <p align="center">🌱 Specialized in TypeScript, Playwright, and WebdriverIO</p>
@@ -35,6 +35,12 @@
   </a>
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
     <img src="https://asset.brandfetch.io/idpyc8TcWP/idEJ2Bgun2.png" alt="playwright" width="40" height="40">
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nesj" width="40" height="40">
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="hhttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40">
   </a>
   <!-- Add more icons as needed -->
 </p>
