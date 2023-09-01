@@ -40,7 +40,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nesj" width="40" height="40">
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="hhttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40">
   </a>
   <!-- Add more icons as needed -->
 </p>
